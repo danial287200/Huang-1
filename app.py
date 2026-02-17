@@ -194,8 +194,7 @@ html_content = """
 </html>
 """
 
-components.html(html_content, height=2000, scrolling=False)
-            position: fixed;
+components.html(html_content, height=2000, scrolling=False position: fixed;
             bottom: 5vh;
             width: 100%;
             display: flex;
