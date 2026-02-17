@@ -194,16 +194,8 @@ html_content = """
 </html>
 """
 
-components.html(html_content, height=2000, scrolling=False position: fixed;
-            bottom: 5vh;
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            gap: 5vw;
-            z-index: 101;
-        }
-
-        .btn {
+components.html(html_content, height=2000, scrolling=False position: fixed;bottom: 5vh;width: 100%;display: flex;justify-content: center;gap: 5vw;z-index: 101; }
+.btn {
             background: var(--imperial-red);
             color: var(--royal-gold);
             border: 2px solid var(--royal-gold);
